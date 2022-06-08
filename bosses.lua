@@ -1,4 +1,4 @@
-local Bosses = {
+return {
     [542351431] = {
         "Dire Wolf";
         "Rahjin the Thief King";
