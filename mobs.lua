@@ -1,4 +1,4 @@
-local Mobs = {
+return {
     [542351431] = {
         "Frenzy Boar";
         "Wolf";
